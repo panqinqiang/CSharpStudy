@@ -4,6 +4,11 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <LangVersion>11</LangVersion>
     </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CSharpStudy2\CSharpStudy2.csproj" />
+    </ItemGroup>
 
 </Project>

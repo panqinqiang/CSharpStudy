@@ -4,6 +4,21 @@
     "C:\\Users\\潘勤强\\RiderProjects\\CSharpStudy\\CSharpStudy\\CSharpStudy.csproj": {}
   },
   "projects": {
+    "C:\\Users\\潘勤强\\RiderProjects\\CSharpStudy\\CSharpStudy2\\CSharpStudy2.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\潘勤强\\RiderProjects\\CSharpStudy\\CSharpStudy2\\CSharpStudy2.csproj",
+        "projectName": "CSharpStudy2",
+        "projectPath": "C:\\Users\\潘勤强\\RiderProjects\\CSharpStudy\\CSharpStudy2\\CSharpStudy2.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
     "C:\\Users\\潘勤强\\RiderProjects\\CSharpStudy\\CSharpStudy\\CSharpStudy.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -36,7 +51,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\潘勤强\\RiderProjects\\CSharpStudy\\CSharpStudy2\\CSharpStudy2.csproj": {
+                "projectPath": "C:\\Users\\潘勤强\\RiderProjects\\CSharpStudy\\CSharpStudy2\\CSharpStudy2.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

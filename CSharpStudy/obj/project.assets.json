@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "CSharpStudy2/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CSharpStudy2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CSharpStudy2.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CSharpStudy2/1.0.0": {
+      "type": "project",
+      "path": "../CSharpStudy2/CSharpStudy2.csproj",
+      "msbuildProject": "../CSharpStudy2/CSharpStudy2.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "CSharpStudy2 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\潘勤强\\.nuget\\packages\\": {},
@@ -44,7 +62,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\潘勤强\\RiderProjects\\CSharpStudy\\CSharpStudy2\\CSharpStudy2.csproj": {
+              "projectPath": "C:\\Users\\潘勤强\\RiderProjects\\CSharpStudy\\CSharpStudy2\\CSharpStudy2.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudy", "CSharpStudy\CSharpStudy.csproj", "{CC9B68DD-FC83-4C6A-A183-E7AE8798B1B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudy2", "CSharpStudy2\CSharpStudy2.csproj", "{541E05DE-2C17-4321-9095-F091CE5FCB75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,11 @@ Global
 		{CC9B68DD-FC83-4C6A-A183-E7AE8798B1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC9B68DD-FC83-4C6A-A183-E7AE8798B1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC9B68DD-FC83-4C6A-A183-E7AE8798B1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9B68DD-FC83-4C6A-A183-E7AE8798B1B8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{541E05DE-2C17-4321-9095-F091CE5FCB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541E05DE-2C17-4321-9095-F091CE5FCB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541E05DE-2C17-4321-9095-F091CE5FCB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541E05DE-2C17-4321-9095-F091CE5FCB75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541E05DE-2C17-4321-9095-F091CE5FCB75}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
