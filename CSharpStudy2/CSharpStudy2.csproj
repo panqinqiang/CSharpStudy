@@ -43,6 +43,7 @@
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="_20230927\QuickSortTest.cs" />
+        <Compile Include="_20231010\QuickSort.cs" />
         <Compile Include="_20231010\SimpleFactory.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
